@@ -10,10 +10,10 @@ npm install
 npm start
 ```
 
-### 模拟接口请求
+### Analog interface request
 ```
 cd server
-node app.js   #或者 nodemon app.js (推荐)
+node app.js   #or nodemon app.js (recommend)
 ```
 
 ### Compiles and minifies for production
